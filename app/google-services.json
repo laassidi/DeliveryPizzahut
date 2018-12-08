@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "456263921624",
+    "firebase_url": "https://databasetest-b1dda.firebaseio.com",
+    "project_id": "databasetest-b1dda",
+    "storage_bucket": "databasetest-b1dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456263921624:android:4b3fe10cd28c0742",
+        "android_client_info": {
+          "package_name": "com.manelkhouloudchaima.deliverypizzahut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456263921624-qrf900d6u4olt4aaiqlj2qtm9qbtpe41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manelkhouloudchaima.deliverypizzahut",
+            "certificate_hash": "d0822310a6118a1fa6f6576646c6c16e9d64aa6f"
+          }
+        },
+        {
+          "client_id": "456263921624-sk4og23rq5q4d867r5mrtt9p2ocmuoaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2faQqKOEOAgxljM1SRq-Ha3HPUDcZLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456263921624-sk4og23rq5q4d867r5mrtt9p2ocmuoaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
